@@ -1,0 +1,4 @@
+The cat is sitting on the table.
+The dog is playing in the garden.
+There is a bird near the tree.
+The cat and the dog are playing together.

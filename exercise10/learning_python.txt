@@ -1,0 +1,4 @@
+In Python you can store information in variables.
+In Python you can create lists and dictionaries.
+In Python you can write functions and classes.
+In Python you can read and write files.
